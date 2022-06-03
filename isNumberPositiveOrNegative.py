@@ -1,4 +1,7 @@
 # find out whether a number is positive, negative or zero.
+#
+# ESP:
+# eksciu ĉu nombro estas pozitiva, negativa aŭ nula.
 
 inum = int(input("Please enter a number:"))
 
