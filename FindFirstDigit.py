@@ -1,5 +1,7 @@
 #
 # find the first digit of a number (code in Python)
+# ESP:
+# Trovu la unuan ciferon de nombro
 #
 # -*- coding: utf-8 -*-
 """FindFirstDigit.ipynb
@@ -11,6 +13,8 @@ Original file is located at
 """
 
 # find the first digit of a number (in Python)
+# ESP:
+# Trovu la unuan ciferon de nombro
 
 number = int(input("Enter a number"))
 
