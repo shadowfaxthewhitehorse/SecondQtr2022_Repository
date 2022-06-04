@@ -8,16 +8,16 @@
 # Output: string in lower
 #
 
-def codeToTurnTextIntoLowerCase(inString):
+def codeToTurnTextIntoLowerCase(inString = ""):
   
     stringtext = ""
     
-    if(inString is None):
+    if(inString == ""):
         stringtxt = ["Welcome", "to", "Qwykrtech", "This","Is","JuSt","An","EXAMPLE"]
 
     stringtxt_lower = [x.lower() for x in stringtxt]
 
     print(stringtxt_lower)
-    return stringtext_lower
+    return stringtxt_lower
   
- codeToTurnTextIntoLowerCase()
+codeToTurnTextIntoLowerCase()
