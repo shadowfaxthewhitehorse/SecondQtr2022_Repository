@@ -6,6 +6,8 @@
 #
 # Source: https://www.w3resource.com/python-exercises/python-functions-exercises.php
 #
+# Is this code correct? In case it is correct, fix the code. Can you make the code more compact?
+#
 # ESPERANTO:
 #
 # Skribu unu funkcion por sumi ĉiujn nombrojn en listo.
