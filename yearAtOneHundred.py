@@ -1,6 +1,12 @@
 # Python code: "Year you will turn 100" problem
 #
+# Spot the bug in the code
 #
+# Create a program that asks the user to enter their name and their age. 
+# Print out a message addressed to them that tells them the year that they will turn 100 years old. 
+# Note: for this exercise, the expectation is that you explicitly write out the year (and therefore be out of date the next year).
+#
+
 
 def yearAt100():
 	istr = str(input("Please enter your name: "))
