@@ -1,10 +1,20 @@
 # from numbers import Number
 #
+# ENGLISH:
 #
 # Write a Python function to sum all the numbers in a list.
 #
 # Source: https://www.w3resource.com/python-exercises/python-functions-exercises.php
 #
+# ESPERANTO:
+#
+# Skribu unu funkcion por sumi ĉiujn nombrojn en listo.
+#
+# Fonto: https://www.w3resource.com/python-exercises/python-functions-exercises.php
+#
+
+
+
 def sumAllNumbersInList(l):
 
     sum = 0
