@@ -1,6 +1,10 @@
 # Python Program
 #
-# A program to check whether the stromg entered is a palindrome
+# A program to check whether the string entered is a palindrome.
+#
+# ESPERANTO:
+#
+# Programo por kontroli ĉu la enigita ĉeno estas palindromo.
 
 def isPalindrome(string):
 
